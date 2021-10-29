@@ -1,1 +1,1 @@
-<img href="https://phantomsec.dev/img/Phantom.png" />
+<img src="https://phantomsec.dev/img/Phantom.png" alt="Phantom Logo" />
